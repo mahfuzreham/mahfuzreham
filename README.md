@@ -79,14 +79,23 @@ A complete license management and reseller platform.
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfuzreham\&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahfuzreham&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mahfuzreham)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzreham\&layout=compact)
+## 👀 Profile Views
 
+![](https://komarev.com/ghpvc/?username=mahfuzreham&color=blue)
+
+---
+
+## 📫 Connect With Me
+
+- Website: https://mahfuzreham.com
+- Telegram: https://t.me/microtasknews
+- GitHub: https://github.com/mahfuzreham
 ---
 
 ## 🌐 Connect With Me
