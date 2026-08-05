@@ -13,7 +13,7 @@ I am a passionate system administrator and developer from Bangladesh. I work wit
 * 💻 Experienced in Linux server administration
 * ⚙️ Specialized in cPanel, CloudLinux, LiteSpeed, and WHMCS
 * 🤖 Building Telegram bots and custom automation solutions
-* 🌍 Location: Jessore, Khulna, Bangladesh
+* 🌍 Location: Bangladesh
 
 ---
 
