@@ -1,80 +1,71 @@
-# 👋 Hello, I'm MD Mahfuz Reham
+<h1 align="center">Hi 👋, I'm MD Mahfuz Reham</h1>
 
-### System Administrator | WHMCS Developer | WordPress Developer | Cloud Engineer
+<h3 align="center">
+System Administrator | WHMCS Developer | WordPress Developer | Cloud Engineer
+</h3>
 
-I am a passionate system administrator and developer from Bangladesh. I work with web hosting platforms, server management, WordPress development, WHMCS automation, Telegram bots, and digital marketing solutions.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mahfuzreham&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Working on WHMCS modules and automation systems
-* 🌱 Learning advanced cloud infrastructure and AI integration
-* 💻 Experienced in Linux server administration
-* ⚙️ Specialized in cPanel, CloudLinux, LiteSpeed, and WHMCS
-* 🤖 Building Telegram bots and custom automation solutions
-* 🌍 Location: Bangladesh
+- 🔭 Working on WHMCS modules and automation systems.
+- 🌱 Learning cloud infrastructure and AI integration.
+- 💻 Linux and server administration specialist.
+- ⚙️ Experienced with cPanel, WHMCS, LiteSpeed, CloudLinux, and MariaDB.
+- 🤖 Building Telegram bots and automation systems.
+- 🌍 Location: Bangladesh.
 
 ---
 
 ## 🛠️ Skills
 
-### Development
+### Languages
 
-* PHP
-* Laravel
-* MySQL
-* JavaScript
-* HTML
-* CSS
-* Bootstrap
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 ### Server Administration
 
-* cPanel
-* WHMCS
-* CloudLinux
-* LiteSpeed
-* Nginx
-* Apache
-* MariaDB
-* JetBackup
-* Imunify360
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-### CMS & Automation
+### Hosting
 
-* WordPress
-* WooCommerce
-* Telegram Bot API
-* GitHub Actions
-* Docker
+![WHMCS](https://img.shields.io/badge/WHMCS-7C4DFF?style=for-the-badge)
+![CloudLinux](https://img.shields.io/badge/CloudLinux-2C3E50?style=for-the-badge)
+![LiteSpeed](https://img.shields.io/badge/LiteSpeed-00AEEF?style=for-the-badge)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge)
 
 ---
 
 ## 🔥 Featured Projects
 
-
 ### 📌 WhatsApp Invoice Notification
 
-A complete WHMCS integration for sending invoice notifications through WhatsApp.
-
+WHMCS integration for automatic invoice notifications.
 
 ### 📌 Telegram Review Bot
 
-A custom Telegram bot for review management and order processing.
+Telegram bot for managing custom review orders.
 
 ### 📌 License Management System
 
-A complete license management and reseller platform.
+License management and reseller platform.
 
 ---
 
 ## 🏆 Technologies
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,wordpress,linux,bootstrap,js,html,css,git,github,docker" />
-
 </p>
 
 ---
@@ -82,32 +73,28 @@ A complete license management and reseller platform.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfuzreham&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahfuzreham&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahfuzreham&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzreham&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzreham&layout=compact&theme=tokyonight" />
-</p>
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=mahfuzreham&color=blue)
 
 ---
 
-## 📫 Connect With Me
+## 🏅 GitHub Trophies
 
-- Website: https://mahfuzreham.com
-- GitHub: https://github.com/mahfuzreham
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mahfuzreham&theme=onedark" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/mahfuzreham
+- Website: https://mahfuzreham.com
+- GitHub: https://github.com/mahfuzreham
+- Telegram: https://t.me/microtasknews
 
 ---
 
@@ -117,4 +104,4 @@ A complete license management and reseller platform.
 
 ---
 
-⭐ Thank you for visiting my profile.
+<h3 align="center">⭐ Thank you for visiting my profile ⭐</h3>
