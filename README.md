@@ -94,7 +94,6 @@ A complete license management and reseller platform.
 ## 📫 Connect With Me
 
 - Website: https://mahfuzreham.com
-- Telegram: https://t.me/microtasknews
 - GitHub: https://github.com/mahfuzreham
 ---
 
