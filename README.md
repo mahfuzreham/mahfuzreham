@@ -70,25 +70,6 @@ License management and reseller platform.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahfuzreham&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzreham&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahfuzreham&theme=onedark" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
