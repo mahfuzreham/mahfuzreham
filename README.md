@@ -75,7 +75,7 @@ License management and reseller platform.
 
 - Website: https://mahfuzreham.com
 - GitHub: https://github.com/mahfuzreham
-- Telegram: https://t.me/microtasknews
+- Telegram: https://t.me/mahfuzreham
 
 ---
 
